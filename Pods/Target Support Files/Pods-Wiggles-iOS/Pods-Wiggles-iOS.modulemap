@@ -1,0 +1,6 @@
+framework module Pods_Wiggles_iOS {
+  umbrella header "Pods-Wiggles-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
